@@ -1,0 +1,13 @@
+{
+    "name": "pariswang/wx-work-api",
+    "description": "Wechat Work Server Api",
+    "require": {
+        "doctrine/cache": "~1.4"
+    },
+    "authors": [
+        {
+            "name": "paris",
+            "email": "suppersoft@gmail.com"
+        }
+    ]
+}
