@@ -1,5 +1,5 @@
 {
-    "name": "Paris/WxWorkApi",
+    "name": "paris/wx-work-api",
     "description": "Wechat Work Server Api",
     "require": {
         "php": ">=7.1.3",
