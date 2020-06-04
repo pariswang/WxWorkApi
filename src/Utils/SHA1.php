@@ -1,5 +1,5 @@
 <?php
-namespace Pariswang\WxWorkApi\Utils;
+namespace Paris\WxWorkApi\Utils;
 
 /**
  * SHA1 class

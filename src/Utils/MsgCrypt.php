@@ -1,5 +1,5 @@
 <?php
-namespace Pariswang\WxWorkApi\Utils;
+namespace Paris\WxWorkApi\Utils;
 
 /**
  * 对企业微信发送给企业的消息加解密示例代码.

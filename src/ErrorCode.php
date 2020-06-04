@@ -1,5 +1,5 @@
 <?php
-namespace Pariswang\WxWorkApi;
+namespace Paris\WxWorkApi;
 
 /**
  * error code 说明.
@@ -33,4 +33,3 @@ class ErrorCode
 	public static $GenReturnXmlError = -40011;
 }
 
-?>

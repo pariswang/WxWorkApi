@@ -1,5 +1,5 @@
 <?php
-namespace Pariswang\WxWorkApi\Utils;
+namespace Paris\WxWorkApi\Utils;
 
 use DOMDocument;
 

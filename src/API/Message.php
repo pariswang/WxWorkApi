@@ -6,11 +6,11 @@
  * Time: 3:55 PM
  */
 
-namespace Pariswang\WxWorkApi\API;
+namespace Paris\WxWorkApi\API;
 
-use Pariswang\WxWorkApi\ApiURLConfig;
-use Pariswang\WxWorkApi\Utils\MsgCrypt;
-use Pariswang\WxWorkApi\Utils\XMLParse;
+use Paris\WxWorkApi\ApiURLConfig;
+use Paris\WxWorkApi\Utils\MsgCrypt;
+use Paris\WxWorkApi\Utils\XMLParse;
 
 class Message extends BaseAPI
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Pariswang\WxWorkApi\Utils;
+namespace Paris\WxWorkApi\Utils;
 
 /**
  * PKCS7Encoder class

@@ -6,9 +6,9 @@
  * Time: 11:37 AM
  */
 
-namespace Pariswang\WxWorkApi\API;
+namespace Paris\WxWorkApi\API;
 
-use Pariswang\WxWorkApi\Utils\Http;
+use Paris\WxWorkApi\Utils\Http;
 
 class BaseAPI
 {

@@ -6,7 +6,7 @@
  * Time: 10:10 PM
  */
 
-namespace Pariswang\WxWorkApi\Utils;
+namespace Paris\WxWorkApi\Utils;
 
 /**
  * JSON.php.

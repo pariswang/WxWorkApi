@@ -6,9 +6,9 @@
  * Time: 10:31 PM
  */
 
-namespace Pariswang\WxWorkApi\API\Traits;
+namespace Paris\WxWorkApi\API\Traits;
 
-use Pariswang\WxWorkApi\ApiURLConfig;
+use Paris\WxWorkApi\ApiURLConfig;
 
 trait Department
 {

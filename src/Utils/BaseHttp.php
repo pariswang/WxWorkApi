@@ -24,7 +24,7 @@
  * @link      http://overtrue.me
  */
 
-namespace Pariswang\WxWorkApi\Utils;
+namespace Paris\WxWorkApi\Utils;
 
 /**
  * Http请求类.

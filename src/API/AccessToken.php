@@ -24,11 +24,11 @@
  * @link      http://overtrue.me
  */
 
-namespace Pariswang\WxWorkApi\API;
+namespace Paris\WxWorkApi\API;
 
-use Pariswang\WxWorkApi\ApiURLConfig;
-use Pariswang\WxWorkApi\WxWork;
-use Pariswang\WxWorkApi\Utils\Http;
+use Paris\WxWorkApi\ApiURLConfig;
+use Paris\WxWorkApi\WxWork;
+use Paris\WxWorkApi\Utils\Http;
 
 /**
  * 全局通用 AccessToken.

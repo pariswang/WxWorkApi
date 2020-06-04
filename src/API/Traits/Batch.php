@@ -6,10 +6,10 @@
  * Time: 12:46 AM
  */
 
-namespace Pariswang\WxWorkApi\API\Traits;
+namespace Paris\WxWorkApi\API\Traits;
 
-use Pariswang\WxWorkApi\ApiURLConfig;
-use Pariswang\WxWorkApi\Utils\JSON;
+use Paris\WxWorkApi\ApiURLConfig;
+use Paris\WxWorkApi\Utils\JSON;
 
 trait Batch
 {

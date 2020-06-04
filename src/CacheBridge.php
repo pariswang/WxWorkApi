@@ -1,6 +1,6 @@
 <?php
 
-namespace Pariswang\WxWorkApi;
+namespace Paris\WxWorkApi;
 
 use Doctrine\Common\Cache\Cache as CacheInterface;
 use Illuminate\Support\Facades\Cache;

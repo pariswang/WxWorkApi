@@ -6,12 +6,12 @@
  * Time: 11:43 PM
  */
 
-namespace Pariswang\WxWorkApi\API;
+namespace Paris\WxWorkApi\API;
 
-use Pariswang\WxWorkApi\API\Traits\Batch;
-use Pariswang\WxWorkApi\API\Traits\Department;
-use Pariswang\WxWorkApi\API\Traits\Tag;
-use Pariswang\WxWorkApi\API\Traits\User;
+use Paris\WxWorkApi\API\Traits\Batch;
+use Paris\WxWorkApi\API\Traits\Department;
+use Paris\WxWorkApi\API\Traits\Tag;
+use Paris\WxWorkApi\API\Traits\User;
 
 class AddressBook extends BaseAPI
 {

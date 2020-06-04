@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Pariswang\WxWorkApi\API;
+namespace Paris\WxWorkApi\API;
 
 
-use Pariswang\WxWorkApi\ApiURLConfig;
-use Pariswang\WxWorkApi\Utils\JSON;
+use Paris\WxWorkApi\ApiURLConfig;
+use Paris\WxWorkApi\Utils\JSON;
 
 class Crop extends BaseAPI
 {

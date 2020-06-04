@@ -1,5 +1,5 @@
 <?php
-namespace Pariswang\WxWorkApi;
+namespace Paris\WxWorkApi;
 
 require_once "helper.php"; 
 

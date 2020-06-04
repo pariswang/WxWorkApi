@@ -24,9 +24,9 @@
  * @link      http://overtrue.me
  */
 
-namespace Pariswang\WxWorkApi\Utils;
+namespace Paris\WxWorkApi\Utils;
 
-use Pariswang\WxWorkApi\API\AccessToken;
+use Paris\WxWorkApi\API\AccessToken;
 
 /**
  * @method mixed jsonPost($url, $params = array(), $options = array())

@@ -22,7 +22,7 @@
  *    <li>-40011: 生成xml失败</li>
  * </ul>
  */
-namespace Pariswang\WxWorkApi\Utils;
+namespace Paris\WxWorkApi\Utils;
 
 class ErrorCode
 {

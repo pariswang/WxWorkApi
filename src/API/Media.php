@@ -6,9 +6,9 @@
  * Time: 12:06 AM
  */
 
-namespace Pariswang\WxWorkApi\API;
+namespace Paris\WxWorkApi\API;
 
-use Pariswang\WxWorkApi\ApiURLConfig;
+use Paris\WxWorkApi\ApiURLConfig;
 
 class Media extends BaseAPI
 {

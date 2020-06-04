@@ -6,16 +6,16 @@
  * Time: 3:05 PM
  */
 
-namespace Pariswang\WxWorkApi;
+namespace Paris\WxWorkApi;
 
 use Doctrine\Common\Cache\FilesystemCache;
 use Doctrine\Common\Cache\Cache as CacheInterface;
 use Exception;
 use function foo\func;
-use Pariswang\WxWorkApi\API\AddressBook;
-use Pariswang\WxWorkApi\API\Crop;
-use Pariswang\WxWorkApi\API\Media;
-use Pariswang\WxWorkApi\API\Message;
+use Paris\WxWorkApi\API\AddressBook;
+use Paris\WxWorkApi\API\Crop;
+use Paris\WxWorkApi\API\Media;
+use Paris\WxWorkApi\API\Message;
 
 class WxWork
 {

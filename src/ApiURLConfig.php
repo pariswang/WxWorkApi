@@ -5,7 +5,7 @@
  * Date: 2018/12/25
  * Time: 9:51 AM
  */
-namespace Pariswang\WxWorkApi;
+namespace Paris\WxWorkApi;
 
 class ApiURLConfig{
     const DOMAIN = "https://qyapi.weixin.qq.com";
